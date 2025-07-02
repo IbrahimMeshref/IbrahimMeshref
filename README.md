@@ -4,7 +4,7 @@
 </h1>
 <br><br><br>
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=Flutter%20Developer;%20Passionate%20About%20Impactful%20UX&amp;font=Fira%20Code&amp;center=true&amp;width=440&amp;height=45&amp;color=36bcf7&amp;vCenter=true&amp;pause=1000&amp;size=22" style="max-width: 100%; display: block; margin: 0 auto;">
+<img src="https://readme-typing-svg.demolab.com/?lines=Flutter%20Developer;%20Always%20Learning%20New%20Things;%20Passionate%20About%20Impactful%20UX&amp;font=Fira%20Code&amp;center=true&amp;width=440&amp;height=45&amp;color=36bcf7&amp;vCenter=true&amp;pause=1000&amp;size=22" style="max-width: 100%; display: block; margin: 0 auto;">
 
 </p>
 
