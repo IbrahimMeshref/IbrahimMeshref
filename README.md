@@ -17,7 +17,7 @@
 <a href="https://fb.com/profile.php?id=100012284777581" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100012284777581" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/ibrahim_meshref." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ibrahim_meshref." height="30" width="40" /><br></a>
 
-- 🔭 I’m currently learning **Flutter Development** and **UI/UX Design**.
+- 🔭 I’m currently learning **Flutter Development**.
 
 - 💬 Ask me about **anything**
 
